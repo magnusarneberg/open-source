@@ -1,2 +1,1 @@
-# open-source
-Project Management
+# Open-source (closed)
