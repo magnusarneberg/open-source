@@ -6,7 +6,8 @@ An extensible, customizable, free/libre text editor.
 
 ## [Minetest](https://www.minetest.net/)
 
-Open source voxel game engine. Play and mod games.
+Open source voxel game engine.
+Play and mod games.
 
 ## [NixOS](https://nixos.org/)
 
