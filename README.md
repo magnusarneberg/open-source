@@ -1,7 +1,7 @@
 # Open-source (closed)
 
-[Emacs, an extensible, customizable, free/libre text editor.](https://www.gnu.org/software/emacs/)
+[Emacs](https://www.gnu.org/software/emacs/), an extensible, customizable, free/libre text editor.
 
-[Minetest, open source voxel game engine. Play and mod games.](https://www.minetest.net/)
+[Minetest](https://www.minetest.net/), open source voxel game engine. Play and mod games.
 
-[NixOS, Nix package manager and build system distro.](https://nixos.org/)
+[NixOS](https://nixos.org/), Nix package manager and build system distro.
