@@ -1,5 +1,5 @@
 # Open-source (closed)
 
-## [NixOS](https://nixos.org/)
+## [GNU Emacs](https://www.gnu.org/software/emacs/)
 
-## [Emacs](https://www.gnu.org/software/emacs/)
+## [NixOS](https://nixos.org/)
