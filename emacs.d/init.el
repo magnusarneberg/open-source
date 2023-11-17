@@ -95,6 +95,7 @@
 ;; ----                                ---                                    --
 
 (prefer-coding-system 'utf-8)
+(add-hook 'focus-out-hook 'auto-save)
 
 (put 'downcase-region 'disabled nil)
 (put 'narrow-to-region 'disabled nil)
@@ -123,15 +124,13 @@
   (interactive)
   (save-some-buffers t))
 
-(add-hook 'focus-out-hook 'auto-save)
-
 ;; ----                                ---                                    --
 
-(bind-key "C-M-<up>" 'shrink-window)
-(bind-key "C-M-<down>" 'enlarge-window)
-
-(bind-key "C-M-<left>" 'shrink-window-horizontally)
 (bind-key "C-M-<right>" 'enlarge-window-horizontally)
+(bind-key "C-M-<left>" 'shrink-window-horizontally)
+
+(bind-key "C-M-<down>" 'enlarge-window)
+(bind-key "C-M-<up>" 'shrink-window)
 
 ;; ----                                ---                                    --
 
