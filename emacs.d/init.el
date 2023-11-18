@@ -106,13 +106,8 @@
 
 ;; ----                                ---                                    --
 
-(if (eq system-type 'windows-nt)
-    (progn ()))
-
 (if (eq window-system nil)
     (set-face-attribute 'default nil :background "black"))
-
-;; ----                                ---                                    --
 
 (defun scratch-buffer nil
   "Create the *scratch* buffer."
